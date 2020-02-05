@@ -1,6 +1,8 @@
 # Cybersecurity Resources
 Free cybersecurity training resources
 
+## Slides
+- [Cybersecurity Training Slides](https://www.treetopsecurity.com/slides) (Tree Top Security)
 
 ## Basic Training
 - [IT Basic Training](https://staysafe.sophos.com/course/it-basic-training_en/) (Sophos)
